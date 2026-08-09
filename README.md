@@ -73,3 +73,7 @@ HR-Employee-Analytics/
 ├── sql/
 ├── HR Employee Analytics Dashboard.pbix
 └── README.md
+
+## Dashboard Preview
+
+![HR Employee Analytics Dashboard](dashboard.png)
