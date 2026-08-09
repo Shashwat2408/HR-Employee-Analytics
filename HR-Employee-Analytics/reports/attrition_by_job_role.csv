@@ -1,0 +1,15 @@
+Job_Role,Attrition,Employee_Count
+Human Resources,No,251
+Human Resources,Yes,74
+Laboratory Technician,No,168
+Laboratory Technician,Yes,57
+Manager,No,421
+Manager,Yes,124
+Research Director,No,164
+Research Director,Yes,56
+Research Scientist,No,155
+Research Scientist,Yes,61
+Sales Executive,No,167
+Sales Executive,Yes,72
+Sales Representative,No,154
+Sales Representative,Yes,76
