@@ -64,16 +64,16 @@ The dashboard includes:
 - Average Monthly Income by Department
 
 ## Project Structure
-
-```text
-HR-Employee-Analytics/
-├── data/
-├── python/
-├── reports/
-├── sql/
-├── HR Employee Analytics Dashboard.pbix
-└── README.md
-
-## Dashboard Preview
-
-![HR Employee Analytics Dashboard](HR-Employee-Analytics/dashboard.png)
+67  ```text
+68  HR-Employee-Analytics/
+69  ├── data/
+70  ├── python/
+71  ├── reports/
+72  ├── sql/
+73  ├── HR Employee Analytics Dashboard.pbix
+74  └── README.md
+75  ```
+76
+77  ## Dashboard Preview
+78
+79  ![HR Employee Analytics Dashboard](dashboard.png)
