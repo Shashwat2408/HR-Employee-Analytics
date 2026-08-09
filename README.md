@@ -76,4 +76,4 @@ HR-Employee-Analytics/
 
 ## Dashboard Preview
 
-![HR Employee Analytics Dashboard](dashboard.png)
+![HR Employee Analytics Dashboard](HR-Employee-Analytics/dashboard.png)
